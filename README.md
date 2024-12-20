@@ -127,7 +127,6 @@ The following images illustrate the automation:
 2. **Check QuickSight Dashboard:**
    - Ensure the QuickSight dashboard reflects the latest insights.
 
----
 
 ## References
 
@@ -135,5 +134,14 @@ The following images illustrate the automation:
 - [AWS Glue Documentation](https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html)
 - [Amazon QuickSight Documentation](https://docs.aws.amazon.com/quicksight/latest/user/welcome.html)
 - [Python Lambda Function Documentation](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+
+---
+
+### Get In Touch
+
+If you have any suggestions or would like to discuss this project further, feel free to reach out to me via email at [shahbajcse@gmail.com](mailto:shahbajcse@gmail.com).
+
+You can also follow me on [LinkedIn](https://www.linkedin.com/in/mdshahbaj) for more updates on my projects and learning journey.
+
 
 
